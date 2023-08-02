@@ -11,7 +11,7 @@ public class EjemploGit {
 		
 		msj = "Cambio mensaje";
 		
-		
+		System.out.println(msj);
 	}
 
 }
