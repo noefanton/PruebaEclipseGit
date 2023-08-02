@@ -7,6 +7,8 @@ public class EjemploGit {
 		
 		String msj = "Hi!";
 		
+		System.out.println(msj);
+		
 	}
 
 }
