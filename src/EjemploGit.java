@@ -9,6 +9,9 @@ public class EjemploGit {
 		
 		System.out.println(msj);
 		
+		msj = "Cambio mensaje";
+		
+		
 	}
 
 }
